@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 💻 I'm a French engineer student in embedded systems
-- 🤖 I'm the Worldskills 2023 Hauts-de-France regional champion in Mobile Robotics
+- 🤖 I'm the Worldskills 2023 Hauts-de-France [regional champion in Mobile Robotics](https://www.polytech-reseau.org/le-reseau-polytech-represente-aux-worldskills-2023-a-lyon/)
 - 🐍 I'm a Python lover
-- 🧑‍🔬 I'm currently working in collaboration with GSI Helmholtzzentrum für Schwerionenforschung GmbH
+- 🧑‍🔬 I'm currently working in collaboration with [GSI Helmholtzzentrum für Schwerionenforschung GmbH](https://www.gsi.de/en/start/news)
 
 <!--
 **Kake24/Kake24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
